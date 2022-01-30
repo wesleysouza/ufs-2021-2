@@ -1,0 +1,47 @@
+01 - Apresentação da Disciplina
+02 - Noções de Complexidade de Algoritmos
+03 - Linguagem de Programação C
+04 - Apontadores e Variáveis Dinâmicas
+05 - Estruturas Lineares de dados: Listas
+06 - Estruturas Lineares de dados: Pilha e Fila
+07 - Busca sequencial e binária
+08 - Busca interpolada
+09 - Revisão
+10 - Primeira Avaliação
+11 - Árvores Binárias (parte 1)
+12 - Árvores Binárias (parte 2)
+13 - Árvores Binárias de Busca
+14 - Implementando Árvores Binárias na linguagem C
+15 - Árvores Balanceadas (parte 1)
+16 - Árvores Balanceadas (parte 2)
+17 - Árvores Balanceadas (parte 3)
+18 - Implementando Árvores Balanceadas na linguagem C
+19 - Revisão
+20 - Segunda Avaliação
+21 - Árvores Heap 
+22 - Filas de Prioridade
+23 - Conjunto Union-Find
+24 - Classificação interna de dados
+25 - Classificação interna de dados: Inserção direta e Quicksort
+26 - Classificação interna de dados: Mergesort e HeapSort
+27 - Implementações em C: Fila de prioridade e classificação de dados
+28 - Revisão
+29 - Terceira Avaliação
+30 - Encerramento da disciplina e divulgação do resultado final
+
+
+#EMENTA
+
+Noções de complexidade de algoritmos. Apontadores e variáveis dinâmicas. Representação e manipulação de estruturas lineares de dados: listas, pilhas e filas. Buscas: sequencial, binária e interpolada. Arvores: binárias, binárias de busca, balanceadas (AVL, rubro-negras), intervalares, costuradas e heaps. Filas de Prioridade. Conjunto Union-Find. Classificação interna de dados: inserção direta, quicksort, mergesort, heapsort. Aplicações usando o paradigma imperativo. Trabalho prático.
+
+#Link para o livro do Cormen
+
+https://computerscience360.files.wordpress.com/2018/02/algoritmos-teoria-e-prc3a1tica-3ed-thomas-cormen.pdf
+
+#REF
+
+AHO, A.V & ULLMAN, J.D. & HOPCROFT, J.E. Data Structures and Algorithms. 3a edição, Editora Addison Wesley
+
+SEDGEWICK, R. Algorithms in C. 3a edição, Editora Addison Wesley, 2008
+
+CORMEN, Thomas H.; LEISERSON, Charles E.; RIVEST, Ronald L. et al. Algoritmos: teoria e prática. 2.ed. Editora Campus, 2002.

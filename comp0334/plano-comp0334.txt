@@ -1,0 +1,30 @@
+01 - Apresentação da Disciplina
+02 - Introdução aos Algoritmos e Execução de Programas
+03 - Análise e síntese de problemas
+04 - Introdução a linguagem C
+05 - Identificadores, tipos e variáveis
+06 - Constantes, operadores e expressões
+07 - Comandos Condicionais e de Repetição 
+08 - Erros de compilação e execução 
+09 - Revisão 
+10 - Primeira avaliação
+11 - Variáveis compostas (estruturas na linguagem C)
+12 - Procedimentos e Funções
+13 - Procedimentos e Funções
+14 - Funções e passagem de parâmetros
+15 - Estruturas de dados: Vetores
+16 - Estruturas de dados: Matrizes
+17 - Cadéias de Caracteres
+18 - Boas práticas de programação
+19 - Revisão
+20 - Segunda avaliação
+21 - Introdução a Recursividade
+22 - Resolução de problemas aplicando recursividade
+23 - Introdução a programação com arquivos
+24 - Trabalhando com arquivos binários e de texto na linguagem C (parte 1)
+25 - Ordenação
+26 - Algoritmos básicos e ordenação
+27 - Boas práticas de programação (convenções de código)
+28 - Revisão
+29 - Terceira Avaliação
+30 - Encerramento da Disciplina e Divulgação dos Resultados
