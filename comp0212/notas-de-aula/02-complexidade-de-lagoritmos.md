@@ -185,3 +185,6 @@ No caso médio a complexidade é O(n).
 [Introdução a Complexidade de Algoritmos](https://medium.com/nagoya-foundation/introdu%C3%A7%C3%A3o-%C3%A0-complexidade-de-algoritmos-4a9c237e4ecc)
 
 [Playlist Sobre Complexidade de Algoritmos](https://youtube.com/playlist?list=PLTcoKFH1s7tGbKN-Lrrf7jSlwBPD3DfxD)
+
+
+[Data Structures - Full Course Using C and C++](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
