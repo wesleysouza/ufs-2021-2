@@ -23,4 +23,4 @@ print("Numero de ocorrencias: " + str(contador))
 
 fim = time.time()
 
-print("Tempo total:" + str(fim - inicio))
+print("Tempo total: " + str(fim - inicio) + "  s")
